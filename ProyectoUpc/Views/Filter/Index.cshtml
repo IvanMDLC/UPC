@@ -1,0 +1,41 @@
+﻿@model UPC.Intranet.Model.Dto.Request.Detalle_SolicitudDtoRequest
+@{
+    ViewBag.Title = "Filter";
+}
+@using (Html.BeginForm("ResponseData", "Filter", FormMethod.Post))
+{<div class="col-md-12 col-xs-12">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>sln UPC</h2>
+                <hr />
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                <br>
+                <form class="form-horizontal form-label-left input_mask">
+                    <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                        <label class="col-md-4 control-label">Cod Linea Negocio</label>
+                        @Html.TextBoxFor(m => m.COD_LINEA_NEGOCIO)
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                        <label class="col-md-4 control-label">Cod Modal Estado</label>
+                        @Html.TextBoxFor(m => m.COD_MODAL_EST)
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                        <label class="col-md-4 control-label">Cod Periodo</label>
+                        @Html.TextBoxFor(m => m.COD_PERIODO)
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                        <label class="col-md-4 control-label">Cod tramite</label>
+                        @Html.TextBoxFor(m => m.COD_TRAMITE)
+                    </div>
+                    <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                        <label class="col-md-4 control-label">Estado</label>
+                        @Html.TextBoxFor(m => m.ESTADO)
+                    </div>
+                    <button type="submit" value="submit" class="btn btn-primary">Buscar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}

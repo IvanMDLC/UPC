@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="SOLICITUD">
+      <EntityTypeMapping TypeName="Model.SOLICITUD">
+        <MappingFragment StoreEntitySet="SOLICITUD">
+          <ScalarProperty Name="COD_UNICO" ColumnName="COD_UNICO" />
+          <ScalarProperty Name="COD_LINEA_NEGOCIO" ColumnName="COD_LINEA_NEGOCIO" />
+          <ScalarProperty Name="COD_MODAL_EST" ColumnName="COD_MODAL_EST" />
+          <ScalarProperty Name="COD_PERIODO" ColumnName="COD_PERIODO" />
+          <ScalarProperty Name="COD_TRAMITE" ColumnName="COD_TRAMITE" />
+          <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+          <ScalarProperty Name="COD_ALUMNO" ColumnName="COD_ALUMNO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

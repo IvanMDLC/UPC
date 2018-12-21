@@ -1,0 +1,5 @@
+C:\Users\ivan\Documents\UPC\ProyectoUpc\UPC.Intranet.Modelo\bin\Debug\UPC.Intranet.Modelo.dll
+C:\Users\ivan\Documents\UPC\ProyectoUpc\UPC.Intranet.Modelo\bin\Debug\UPC.Intranet.Modelo.pdb
+C:\Users\ivan\Documents\UPC\ProyectoUpc\UPC.Intranet.Modelo\obj\Debug\UPC.Intranet.Model.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\UPC\ProyectoUpc\UPC.Intranet.Modelo\obj\Debug\UPC.Intranet.Modelo.dll
+C:\Users\ivan\Documents\UPC\ProyectoUpc\UPC.Intranet.Modelo\obj\Debug\UPC.Intranet.Modelo.pdb

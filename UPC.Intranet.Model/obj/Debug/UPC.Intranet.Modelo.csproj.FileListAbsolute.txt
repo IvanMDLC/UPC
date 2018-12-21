@@ -1,0 +1,8 @@
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Modelo\bin\Debug\UPC.Intranet.Modelo.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Modelo\bin\Debug\UPC.Intranet.Modelo.pdb
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Modelo\obj\Debug\UPC.Intranet.Modelo.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Modelo\obj\Debug\UPC.Intranet.Modelo.pdb
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Modelo\bin\Debug\UPC.Intranet.Modelo.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Modelo\bin\Debug\UPC.Intranet.Modelo.pdb
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Modelo\obj\Debug\UPC.Intranet.Modelo.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Modelo\obj\Debug\UPC.Intranet.Modelo.pdb

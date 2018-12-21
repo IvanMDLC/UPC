@@ -1,0 +1,28 @@
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Datos.dll.config
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Datos.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Datos.pdb
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\EntityFramework.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\EntityFramework.SqlServer.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Modelo.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Modelo.pdb
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\EntityFramework.xml
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\EntityFramework.SqlServer.xml
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\obj\Debug\UPC.Intranet.Datos.csprojResolveAssemblyReference.cache
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\obj\Debug\UPC.Intranet.Datos.dll
+D:\KARINA\Examen Karina Gomez\ProyectoUpc\UPC.Intranet.Datos\obj\Debug\UPC.Intranet.Datos.pdb
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Datos.dll.config
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Datos.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Datos.pdb
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\EntityFramework.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Modelo.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\UPC.Intranet.Modelo.pdb
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\EntityFramework.xml
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\obj\Debug\UPC.Intranet.Datos.csprojResolveAssemblyReference.cache
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\obj\Debug\UPC.Intranet.Datos.dll
+C:\Users\nabellanedar\Documents\ProyectoUpc\UPC.Intranet.Datos\obj\Debug\UPC.Intranet.Datos.pdb
